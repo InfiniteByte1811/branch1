@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:01:05.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oYMo77OC-BPeYpvjMs-S" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:01:12.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="obPunoBEcalmDUqShYLl" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="677" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,6 +167,10 @@
         <mxCell id="nj3y7SZ-2xfffU_VGILr-51" value="Thông tin khách mới" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nj3y7SZ-2xfffU_VGILr-46" target="nj3y7SZ-2xfffU_VGILr-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1218.77" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1260" />
+              <mxPoint x="278" y="1260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-52" value="Thông tin khách quen &amp;amp; yêu cầu" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nj3y7SZ-2xfffU_VGILr-43">
