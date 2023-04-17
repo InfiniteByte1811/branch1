@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T15:35:16.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="iaJkheb81C2D7DF0Eg4a" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T15:35:21.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ha2noHlKxpomyHD2zofg" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="800" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-31" value="Bộ phận quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-32" value="Yêu cầu" style="endArrow=classic;html=1;rounded=0;entryX=0.041;entryY=0.745;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nj3y7SZ-2xfffU_VGILr-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
