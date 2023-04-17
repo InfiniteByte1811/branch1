@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T14:57:07.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3P4yTF_fhbZUvMyvSn-h" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T14:58:32.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="96YvJCPKsGcNTcWF0MmE" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="800" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="638" y="629.55" as="sourcePoint" />
             <mxPoint x="454" y="629.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nj3y7SZ-2xfffU_VGILr-10" value="Yêu cầu" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nj3y7SZ-2xfffU_VGILr-1" target="KOxQfJe9zlFX1MplgHy2-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="740" as="sourcePoint" />
+            <mxPoint x="300" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
