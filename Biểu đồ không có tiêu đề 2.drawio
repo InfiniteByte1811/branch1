@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:33:48.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RfPvmagHaiGDwHH27YTO" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:34:12.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tmazG1YQlC_eFg3HdN9k" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
-    <mxGraphModel dx="607" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
           <mxGeometry x="224" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-31" value="Bộ phận quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1120.23" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="1118.77" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-32" value="Yêu cầu" style="endArrow=classic;html=1;rounded=0;entryX=0.041;entryY=0.745;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nj3y7SZ-2xfffU_VGILr-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -143,8 +143,11 @@
             <mxPoint x="504" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nj3y7SZ-2xfffU_VGILr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nj3y7SZ-2xfffU_VGILr-41" target="nj3y7SZ-2xfffU_VGILr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-41" value="2&lt;br&gt;&lt;br&gt;Gửi báo cáo&lt;br&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1110" width="80" height="80" as="geometry" />
+          <mxGeometry x="820" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.965;entryY=0.345;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.024;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="nj3y7SZ-2xfffU_VGILr-41" target="nj3y7SZ-2xfffU_VGILr-41" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -223,6 +226,9 @@
             <mxPoint x="812" y="1359.66" as="sourcePoint" />
             <mxPoint x="908" y="1359.66" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nj3y7SZ-2xfffU_VGILr-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nj3y7SZ-2xfffU_VGILr-63" target="nj3y7SZ-2xfffU_VGILr-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-63" value="CSDL Nghiệp vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1319.66" width="100" height="40" as="geometry" />
