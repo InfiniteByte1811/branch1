@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:39:58.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jrYf9LvbHtGMUMHxKrud" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:40:46.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="m2MrFtHn75cf8TSTadV0" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
-    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
         <mxCell id="nj3y7SZ-2xfffU_VGILr-35" value="Bộ phận cho thuê" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nj3y7SZ-2xfffU_VGILr-38" value="Yêu cầu" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9">
+        <mxCell id="nj3y7SZ-2xfffU_VGILr-38" value="Yêu cầu thuê" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="750" as="sourcePoint" />
             <mxPoint x="640" y="700" as="targetPoint" />
