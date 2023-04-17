@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T16:45:38.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Yd7gF3hfssK4V0nb8bCv" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T16:46:09.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RPvfpMMePKdzBVnbRV8V" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="800" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="nj3y7SZ-2xfffU_VGILr-7" value="Thẻ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9" target="nj3y7SZ-2xfffU_VGILr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nj3y7SZ-2xfffU_VGILr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9">
+        <mxCell id="nj3y7SZ-2xfffU_VGILr-71" value="Yêu cầu trả" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9" target="nj3y7SZ-2xfffU_VGILr-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="740" as="targetPoint" />
           </mxGeometry>
@@ -246,7 +246,7 @@
           <mxGeometry x="600" y="1168.77" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-70" value="Bộ phận trả" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nj3y7SZ-2xfffU_VGILr-73" value="Báo cáo" style="endArrow=classic;html=1;rounded=0;exitX=0.791;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KOxQfJe9zlFX1MplgHy2-9">
           <mxGeometry x="0.4426" width="50" height="50" relative="1" as="geometry">
