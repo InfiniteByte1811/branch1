@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T14:32:40.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Tfj9sOLjX5PqfyAiMt13" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T14:34:40.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q-Cr4vx9wPfTd8HKvzNd" version="21.1.5" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KOxQfJe9zlFX1MplgHy2-1" value="THUÊ BĂNG ĐĨA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KOxQfJe9zlFX1MplgHy2-2" value="TIẾP NHẬN THÔNG TIN KHÁCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
@@ -14,10 +14,13 @@
           <mxGeometry x="100" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KOxQfJe9zlFX1MplgHy2-4" value="XỬ LÝ YÊU CẦU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KOxQfJe9zlFX1MplgHy2-5" value="HÓA ĐƠN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KOxQfJe9zlFX1MplgHy2-6" value="BÁO CÁO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
