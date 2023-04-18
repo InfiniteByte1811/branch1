@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T01:02:33.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nM883XA65DpU1hCOyjg9" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T01:04:42.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="N58v1ApzeNG5_pdijL0l" version="21.1.8" type="github">
   <diagram name="Trang-1" id="5px7r3D4sKR2rN02WqdL">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,6 +295,15 @@
         </mxCell>
         <mxCell id="G17NPDU0NutHbwTXevD7-8" value="Bộ phận xử lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G17NPDU0NutHbwTXevD7-9" value="Bộ phận quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G17NPDU0NutHbwTXevD7-10" value="Đơn hàng" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G17NPDU0NutHbwTXevD7-2" target="G17NPDU0NutHbwTXevD7-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1868" as="sourcePoint" />
+            <mxPoint x="581" y="1800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
